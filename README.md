@@ -87,9 +87,7 @@ az role assignment create --assignee 2be2fb0b-cdf4-4d5a-9d4a-3f671d2b33a6 --role
 
 ### AWS
 
-Follow the AWS documentation to create a cluster:
-
-https://docs.aws.amazon.com/eks/latest/userguide/getting-started.html
+Follow the [AWS documentation to create a cluster](https://docs.aws.amazon.com/eks/latest/userguide/getting-started.html):
 
 This should include the following:
 
